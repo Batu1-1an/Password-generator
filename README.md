@@ -21,7 +21,7 @@ A modern, web-based password generator application built with HTML, CSS, and Jav
 ## How to Use
 
 1.  Clone or download this repository.
-2.  Open the `index.html` file in your web browser.
+2.  Open the `src/index.html` file in your web browser.
 3.  Adjust the settings (length, character types) to your preference.
 4.  Click the "Generate Password" button.
 5.  Click the "Copy" button to copy the password to your clipboard.
